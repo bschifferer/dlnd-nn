@@ -1,4 +1,4 @@
-# My Projects - Deep Learning Nanodegree Udacity
+# Projects - Deep Learning Nanodegree Udacity
 
 Related to the Udacity - Deep Learning Nanodegree participants have to submit projects, which apply the learned content.
 In the first term there were following 5 projects:
